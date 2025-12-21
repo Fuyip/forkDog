@@ -77,6 +77,13 @@ def init(from_fork, force):
     svg_file = Path("monkey_data/monkey.svg")
     svg_file.write_text(svg)
     
+    # Archive with timestamp
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+    archive_file = Path(f"monkey_evolution/{timestamp}_monkey.svg")
+    archive_file.parent.mkdir(exist_ok=True)
+    archive_file.write_text(svg)
+    
     # Display info
     console.print("\n[bold green]✅ Monkey initialized![/bold green]\n")
     
@@ -160,6 +167,13 @@ def evolve(ai, strength):
     svg = MonkeyVisualizer.generate_svg(evolved_dna)
     svg_file = Path("monkey_data/monkey.svg")
     svg_file.write_text(svg)
+    
+    # Archive with timestamp
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+    archive_file = Path(f"monkey_evolution/{timestamp}_monkey.svg")
+    archive_file.parent.mkdir(exist_ok=True)
+    archive_file.write_text(svg)
     
     console.print(f"\n[bold green]✅ Evolution complete![/bold green]")
     console.print(f"New DNA: {evolved_dna.dna_hash}")
@@ -252,7 +266,15 @@ def visualize():
     svg_file = Path("monkey_data/monkey.svg")
     svg_file.write_text(svg)
     
+    # Archive with timestamp
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+    archive_file = Path(f"monkey_evolution/{timestamp}_monkey.svg")
+    archive_file.parent.mkdir(exist_ok=True)
+    archive_file.write_text(svg)
+    
     console.print(f"[green]✅ SVG saved to: {svg_file}[/green]")
+    console.print(f"[dim]   Archived to: {archive_file}[/dim]")
     
     # Try to open in browser
     try:
@@ -287,6 +309,13 @@ def update_readme():
     svg = MonkeyVisualizer.generate_svg(dna, width=400, height=400)
     svg_file = Path("monkey_data/monkey.svg")
     svg_file.write_text(svg)
+    
+    # Archive with timestamp
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+    archive_file = Path(f"monkey_evolution/{timestamp}_monkey.svg")
+    archive_file.parent.mkdir(exist_ok=True)
+    archive_file.write_text(svg)
     
     # Update monkey display section with image reference
     monkey_section = '''<!-- MONKEY_DISPLAY_START -->
