@@ -527,6 +527,22 @@
         "special": "shadow"
       },
       "story": "Your dog evolved! Changes: accessory: bow \u2192 none"
+    },
+    {
+      "timestamp": "2025-12-23T00:52:31.534064",
+      "dna_hash": "e39a33c631f3b242",
+      "generation": 1,
+      "mutation_count": 2,
+      "rarity_score": 16.666666666666664,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "sleepy",
+        "accessory": "none",
+        "pattern": "stripes",
+        "background": "sunset",
+        "special": "aura"
+      },
+      "story": "Your dog evolved! Changes: special: shadow \u2192 aura"
     }
   ]
 }
