@@ -623,6 +623,22 @@
         "special": "aura"
       },
       "story": "Your dog evolved! Changes: accessory: none \u2192 headphones"
+    },
+    {
+      "timestamp": "2025-12-29T00:57:33.773047",
+      "dna_hash": "14f31ce91cb8e25a",
+      "generation": 1,
+      "mutation_count": 4,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "sleepy",
+        "accessory": "headphones",
+        "pattern": "stripes",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your dog evolved! Changes: background: sunset \u2192 green_grass"
     }
   ]
 }
