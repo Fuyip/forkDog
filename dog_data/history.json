@@ -687,6 +687,22 @@
         "special": "aura"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-01-02T00:54:03.533773",
+      "dna_hash": "d96c77be8ac309e1",
+      "generation": 1,
+      "mutation_count": 6,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "sleepy",
+        "accessory": "crown",
+        "pattern": "spots",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your dog evolved! Changes: pattern: stripes \u2192 spots"
     }
   ]
 }
