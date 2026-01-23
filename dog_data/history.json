@@ -1023,6 +1023,22 @@
         "special": "energy"
       },
       "story": "Your dog evolved! Changes: body_color: tan \u2192 copper, background: green_grass \u2192 blue_sky"
+    },
+    {
+      "timestamp": "2026-01-23T00:54:59.141448",
+      "dna_hash": "5c829d1e348a88dd",
+      "generation": 1,
+      "mutation_count": 18,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "mischievous",
+        "accessory": "monocle",
+        "pattern": "solid",
+        "background": "blue_sky",
+        "special": "energy"
+      },
+      "story": "Your dog evolved! Changes: body_color: copper \u2192 gray"
     }
   ]
 }

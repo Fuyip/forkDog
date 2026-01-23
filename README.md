@@ -90,9 +90,9 @@ In **Actions** → **Daily Evolution** → **Enable workflow**
 
 <!-- DOG_STATS_START -->
 - **Generation**: 1
-- **Age**: 64 days
-- **Mutations**: 17
-- **Rarity Score**: 21.7/100
+- **Age**: 65 days
+- **Mutations**: 18
+- **Rarity Score**: 20.0/100
 <!-- DOG_STATS_END -->
 
 ## Family Tree
