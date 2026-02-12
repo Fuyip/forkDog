@@ -1375,6 +1375,22 @@
         "special": "godlike"
       },
       "story": "Your dog evolved! Changes: accessory: monocle \u2192 simple_hat"
+    },
+    {
+      "timestamp": "2026-02-12T22:59:45.490138",
+      "dna_hash": "f6b7a3bb6f32f09f",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 11.666666666666666,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "neutral",
+        "accessory": "bandana",
+        "pattern": "swirls",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "\ud83c\udf89 Your dog was born!"
     }
   ]
 }
