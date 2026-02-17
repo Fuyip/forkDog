@@ -1471,6 +1471,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: body_color: beige \u2192 tan"
+    },
+    {
+      "timestamp": "2026-02-17T15:56:23.728091",
+      "dna_hash": "e20e1bc0de360aab",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 10.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "neutral",
+        "accessory": "bow",
+        "pattern": "solid",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "\ud83c\udf89 Your dog was born!"
     }
   ]
 }

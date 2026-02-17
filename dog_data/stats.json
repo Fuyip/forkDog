@@ -1,13 +1,13 @@
 {
-  "dna_hash": "64bab05bfe894721",
+  "dna_hash": "e20e1bc0de360aab",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 3,
-  "rarity_score": 13.333333333333334,
+  "mutation_count": 0,
+  "rarity_score": 10.0,
   "parent_id": null,
   "traits": {
     "body_color": {
-      "value": "tan",
+      "value": "beige",
       "rarity": "common"
     },
     "face_expression": {
@@ -15,15 +15,15 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "headphones",
-      "rarity": "uncommon"
+      "value": "bow",
+      "rarity": "common"
     },
     "pattern": {
-      "value": "swirls",
-      "rarity": "uncommon"
+      "value": "solid",
+      "rarity": "common"
     },
     "background": {
-      "value": "blue_sky",
+      "value": "sunset",
       "rarity": "common"
     },
     "special": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-02-17T01:05:52.000901"
+  "last_updated": "2026-02-17T15:56:23.727530"
 }
