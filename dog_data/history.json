@@ -1727,6 +1727,22 @@
         "special": "none"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-02-28T02:31:41.133731",
+      "dna_hash": "c5a53590707e4477",
+      "generation": 2,
+      "mutation_count": 3,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "excited",
+        "accessory": "horns",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: sunglasses \u2192 horns"
     }
   ]
 }
