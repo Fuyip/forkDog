@@ -1743,6 +1743,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: accessory: sunglasses \u2192 horns"
+    },
+    {
+      "timestamp": "2026-03-01T03:14:42.295357",
+      "dna_hash": "5190c5d60f9f140e",
+      "generation": 2,
+      "mutation_count": 4,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "excited",
+        "accessory": "monocle",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: horns \u2192 monocle"
     }
   ]
 }
