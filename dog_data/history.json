@@ -1791,6 +1791,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: face_expression: excited \u2192 cool"
+    },
+    {
+      "timestamp": "2026-03-04T02:41:23.886365",
+      "dna_hash": "df0cf865f1fbca25",
+      "generation": 2,
+      "mutation_count": 6,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "cool",
+        "accessory": "monocle",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
