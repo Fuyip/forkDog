@@ -1823,6 +1823,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: accessory: monocle \u2192 headphones"
+    },
+    {
+      "timestamp": "2026-03-05T02:43:48.319808",
+      "dna_hash": "e8c0b27f7c3a4ce7",
+      "generation": 2,
+      "mutation_count": 8,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "cool",
+        "accessory": "crown",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: headphones \u2192 crown"
     }
   ]
 }
