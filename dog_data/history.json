@@ -2127,6 +2127,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: pattern: stars \u2192 hearts"
+    },
+    {
+      "timestamp": "2026-03-24T02:46:06.176044",
+      "dna_hash": "10f9739caeb96c84",
+      "generation": 2,
+      "mutation_count": 15,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "excited",
+        "accessory": "crown",
+        "pattern": "hearts",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: body_color: gray \u2192 beige"
     }
   ]
 }
