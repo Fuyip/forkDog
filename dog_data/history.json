@@ -2543,6 +2543,22 @@
         "special": "sparkles"
       },
       "story": "Your dog evolved! Changes: face_expression: excited \u2192 neutral, accessory: headphones \u2192 monocle"
+    },
+    {
+      "timestamp": "2026-04-19T03:37:48.613083",
+      "dna_hash": "9b2549260a9250b6",
+      "generation": 2,
+      "mutation_count": 31,
+      "rarity_score": 16.666666666666664,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "neutral",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "sunset",
+        "special": "glow"
+      },
+      "story": "Your dog evolved! Changes: special: sparkles \u2192 glow"
     }
   ]
 }
