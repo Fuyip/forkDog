@@ -2607,6 +2607,22 @@
         "special": "shadow"
       },
       "story": "Your dog evolved! Changes: body_color: golden \u2192 bronze, special: glow \u2192 shadow"
+    },
+    {
+      "timestamp": "2026-04-23T03:33:51.732594",
+      "dna_hash": "5981e85a61cd3d79",
+      "generation": 2,
+      "mutation_count": 34,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "neutral",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "forest",
+        "special": "shadow"
+      },
+      "story": "Your dog evolved! Changes: background: sunset \u2192 forest"
     }
   ]
 }
