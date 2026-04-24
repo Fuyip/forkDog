@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "387085621eef98ac",
-  "dna_hash": "5981e85a61cd3d79",
-  "mutation_count": 34,
+  "dna_hash": "1bfd203334ce7f89",
+  "mutation_count": 35,
   "birth_timestamp": 581583,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "af0c9603"
     },
     "face_expression": {
-      "value": "neutral",
+      "value": "sleepy",
       "rarity": "common",
-      "gene_sequence": "374db983"
+      "gene_sequence": "399185f3"
     },
     "accessory": {
       "value": "monocle",

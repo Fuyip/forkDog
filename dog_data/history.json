@@ -2623,6 +2623,22 @@
         "special": "shadow"
       },
       "story": "Your dog evolved! Changes: background: sunset \u2192 forest"
+    },
+    {
+      "timestamp": "2026-04-24T03:35:39.799711",
+      "dna_hash": "1bfd203334ce7f89",
+      "generation": 2,
+      "mutation_count": 35,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "sleepy",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "forest",
+        "special": "shadow"
+      },
+      "story": "Your dog evolved! Changes: face_expression: neutral \u2192 sleepy"
     }
   ]
 }
