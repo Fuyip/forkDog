@@ -2671,6 +2671,22 @@
         "special": "particles"
       },
       "story": "Your dog evolved! Changes: special: shadow \u2192 particles"
+    },
+    {
+      "timestamp": "2026-04-27T03:48:37.711756",
+      "dna_hash": "e479bb9b1ae13fb2",
+      "generation": 2,
+      "mutation_count": 37,
+      "rarity_score": 23.333333333333332,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "sleepy",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "mountains",
+        "special": "particles"
+      },
+      "story": "Your dog evolved! Changes: background: forest \u2192 mountains"
     }
   ]
 }
