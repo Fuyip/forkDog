@@ -2767,6 +2767,22 @@
         "special": "particles"
       },
       "story": "Your dog evolved! Changes: body_color: bronze \u2192 green"
+    },
+    {
+      "timestamp": "2026-05-03T03:57:45.512528",
+      "dna_hash": "9a425a2fed6f0033",
+      "generation": 2,
+      "mutation_count": 39,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "curious",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "mountains",
+        "special": "particles"
+      },
+      "story": "Your dog evolved! Changes: face_expression: sleepy \u2192 curious"
     }
   ]
 }
