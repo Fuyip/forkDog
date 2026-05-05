@@ -2799,6 +2799,22 @@
         "special": "particles"
       },
       "story": "Your dog evolved! Changes: pattern: hearts \u2192 diamonds, background: mountains \u2192 green_grass"
+    },
+    {
+      "timestamp": "2026-05-05T03:36:18.301249",
+      "dna_hash": "edb39887ac760608",
+      "generation": 2,
+      "mutation_count": 42,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "curious",
+        "accessory": "monocle",
+        "pattern": "diamonds",
+        "background": "green_grass",
+        "special": "particles"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
