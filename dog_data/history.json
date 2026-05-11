@@ -2895,6 +2895,22 @@
         "special": "aura"
       },
       "story": "Your dog evolved! Changes: face_expression: curious \u2192 sleepy"
+    },
+    {
+      "timestamp": "2026-05-11T04:10:25.164790",
+      "dna_hash": "a1e2b3e2675b570b",
+      "generation": 2,
+      "mutation_count": 51,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "beach",
+        "special": "particles"
+      },
+      "story": "Your dog evolved! Changes: special: aura \u2192 particles"
     }
   ]
 }
