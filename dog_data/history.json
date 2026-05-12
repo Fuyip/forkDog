@@ -2911,6 +2911,22 @@
         "special": "particles"
       },
       "story": "Your dog evolved! Changes: special: aura \u2192 particles"
+    },
+    {
+      "timestamp": "2026-05-12T03:54:15.124390",
+      "dna_hash": "adcf47191c982e36",
+      "generation": 2,
+      "mutation_count": 52,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "halo",
+        "pattern": "diamonds",
+        "background": "beach",
+        "special": "particles"
+      },
+      "story": "Your dog evolved! Changes: accessory: sunglasses \u2192 halo"
     }
   ]
 }
