@@ -2927,6 +2927,22 @@
         "special": "particles"
       },
       "story": "Your dog evolved! Changes: accessory: sunglasses \u2192 halo"
+    },
+    {
+      "timestamp": "2026-05-13T04:02:36.211700",
+      "dna_hash": "adcf47191c982e36",
+      "generation": 2,
+      "mutation_count": 52,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "halo",
+        "pattern": "diamonds",
+        "background": "beach",
+        "special": "particles"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
