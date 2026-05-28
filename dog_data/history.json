@@ -3167,6 +3167,22 @@
         "special": "energy"
       },
       "story": "Your dog evolved! Changes: body_color: copper \u2192 golden, face_expression: sleepy \u2192 neutral"
+    },
+    {
+      "timestamp": "2026-05-28T04:17:27.051567",
+      "dna_hash": "a95c5c271bd810b2",
+      "generation": 2,
+      "mutation_count": 59,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "swirls",
+        "background": "city",
+        "special": "energy"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
