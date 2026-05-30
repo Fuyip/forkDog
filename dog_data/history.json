@@ -3199,6 +3199,22 @@
         "special": "energy"
       },
       "story": "Your dog evolved! Changes: pattern: swirls \u2192 spots"
+    },
+    {
+      "timestamp": "2026-05-30T04:05:02.197103",
+      "dna_hash": "cf205e64ce76dc33",
+      "generation": 2,
+      "mutation_count": 60,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "spots",
+        "background": "city",
+        "special": "energy"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
