@@ -3231,6 +3231,22 @@
         "special": "energy"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-06-01T05:01:39.321196",
+      "dna_hash": "ef004ede99f768c0",
+      "generation": 2,
+      "mutation_count": 61,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "spots",
+        "background": "city",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: special: energy \u2192 transcendent"
     }
   ]
 }
