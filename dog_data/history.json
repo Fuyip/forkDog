@@ -3263,6 +3263,22 @@
         "special": "transcendent"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-06-03T04:58:35.003917",
+      "dna_hash": "d096577edef5b108",
+      "generation": 2,
+      "mutation_count": 62,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "spots",
+        "background": "city",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: body_color: golden \u2192 blue"
     }
   ]
 }
