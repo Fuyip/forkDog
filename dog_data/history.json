@@ -3359,6 +3359,22 @@
         "special": "transcendent"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-06-09T04:12:32.995268",
+      "dna_hash": "b5068b51ce6bef05",
+      "generation": 2,
+      "mutation_count": 64,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "spots",
+        "background": "mountains",
+        "special": "transcendent"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
