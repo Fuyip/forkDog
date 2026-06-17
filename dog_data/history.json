@@ -3487,6 +3487,22 @@
         "special": "godlike"
       },
       "story": "Your dog evolved! Changes: special: transcendent \u2192 godlike"
+    },
+    {
+      "timestamp": "2026-06-17T04:57:08.011727",
+      "dna_hash": "f6d6d0e309202449",
+      "generation": 2,
+      "mutation_count": 67,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "horns",
+        "pattern": "spots",
+        "background": "white",
+        "special": "godlike"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
