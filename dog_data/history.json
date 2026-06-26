@@ -3631,6 +3631,22 @@
         "special": "mythical"
       },
       "story": "Your dog evolved! Changes: pattern: spots \u2192 solid"
+    },
+    {
+      "timestamp": "2026-06-26T04:19:28.273846",
+      "dna_hash": "1c0b51f46b92343a",
+      "generation": 2,
+      "mutation_count": 74,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "horns",
+        "pattern": "solid",
+        "background": "blue_sky",
+        "special": "mythical"
+      },
+      "story": "Your dog evolved! Changes: face_expression: sleepy \u2192 neutral"
     }
   ]
 }
