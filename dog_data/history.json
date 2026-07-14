@@ -3919,6 +3919,22 @@
         "special": "mythical"
       },
       "story": "Your dog evolved! Changes: face_expression: curious \u2192 neutral, pattern: spots \u2192 stripes"
+    },
+    {
+      "timestamp": "2026-07-14T03:15:17.867608",
+      "dna_hash": "e9112f57ebe27d84",
+      "generation": 2,
+      "mutation_count": 86,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "stripes",
+        "background": "green_grass",
+        "special": "mythical"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
