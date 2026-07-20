@@ -1,9 +1,9 @@
 {
-  "dna_hash": "7babaaff4ac24d5d",
+  "dna_hash": "c81127bed932a975",
   "generation": 2,
   "age_days": 0,
-  "mutation_count": 88,
-  "rarity_score": 38.333333333333336,
+  "mutation_count": 89,
+  "rarity_score": 30.0,
   "parent_id": "387085621eef98ac",
   "traits": {
     "body_color": {
@@ -27,9 +27,9 @@
       "rarity": "common"
     },
     "special": {
-      "value": "mythical",
-      "rarity": "legendary"
+      "value": "energy",
+      "rarity": "rare"
     }
   },
-  "last_updated": "2026-07-19T03:34:02.630436"
+  "last_updated": "2026-07-20T03:48:33.445479"
 }

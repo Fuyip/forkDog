@@ -4015,6 +4015,22 @@
         "special": "mythical"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-20T03:48:33.446657",
+      "dna_hash": "c81127bed932a975",
+      "generation": 2,
+      "mutation_count": 89,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "stripes",
+        "background": "white",
+        "special": "energy"
+      },
+      "story": "Your dog evolved! Changes: special: mythical \u2192 energy"
     }
   ]
 }
