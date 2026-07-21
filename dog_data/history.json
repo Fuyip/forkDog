@@ -4031,6 +4031,22 @@
         "special": "energy"
       },
       "story": "Your dog evolved! Changes: special: mythical \u2192 energy"
+    },
+    {
+      "timestamp": "2026-07-21T03:27:39.936470",
+      "dna_hash": "7ed81bdad1c65348",
+      "generation": 2,
+      "mutation_count": 90,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "energy"
+      },
+      "story": "Your dog evolved! Changes: pattern: stripes \u2192 gradient"
     }
   ]
 }
