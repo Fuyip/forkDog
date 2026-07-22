@@ -4047,6 +4047,22 @@
         "special": "energy"
       },
       "story": "Your dog evolved! Changes: pattern: stripes \u2192 gradient"
+    },
+    {
+      "timestamp": "2026-07-22T03:26:15.248211",
+      "dna_hash": "7ed81bdad1c65348",
+      "generation": 2,
+      "mutation_count": 90,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "halo",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "energy"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
