@@ -4127,6 +4127,22 @@
         "special": "sparkles"
       },
       "story": "Your dog evolved! Changes: accessory: halo \u2192 monocle, special: energy \u2192 sparkles"
+    },
+    {
+      "timestamp": "2026-07-27T03:48:31.589524",
+      "dna_hash": "4f395adc2faf9bf0",
+      "generation": 2,
+      "mutation_count": 92,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "neutral",
+        "accessory": "monocle",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "sparkles"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
