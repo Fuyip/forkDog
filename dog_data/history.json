@@ -4303,6 +4303,22 @@
         "special": "sparkles"
       },
       "story": "Your dog evolved! Changes: face_expression: neutral \u2192 wise, pattern: spots \u2192 gradient"
+    },
+    {
+      "timestamp": "2026-08-07T03:08:26.305078",
+      "dna_hash": "cb41838ce6e04181",
+      "generation": 2,
+      "mutation_count": 102,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "wise",
+        "accessory": "monocle",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "shadow"
+      },
+      "story": "Your dog evolved! Changes: body_color: holographic \u2192 rainbow, special: sparkles \u2192 shadow"
     }
   ]
 }
