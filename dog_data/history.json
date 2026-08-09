@@ -4335,6 +4335,22 @@
         "special": "aura"
       },
       "story": "Your dog evolved! Changes: special: shadow \u2192 aura"
+    },
+    {
+      "timestamp": "2026-08-09T02:14:21.379397",
+      "dna_hash": "bd49b58add452adf",
+      "generation": 2,
+      "mutation_count": 103,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "wise",
+        "accessory": "monocle",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "aura"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
