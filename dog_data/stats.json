@@ -1,8 +1,8 @@
 {
-  "dna_hash": "bd49b58add452adf",
+  "dna_hash": "7a9226889fd51227",
   "generation": 2,
   "age_days": 0,
-  "mutation_count": 103,
+  "mutation_count": 104,
   "rarity_score": 35.0,
   "parent_id": "387085621eef98ac",
   "traits": {
@@ -27,9 +27,9 @@
       "rarity": "common"
     },
     "special": {
-      "value": "aura",
+      "value": "particles",
       "rarity": "rare"
     }
   },
-  "last_updated": "2026-08-10T02:21:37.865119"
+  "last_updated": "2026-08-11T02:11:31.230849"
 }
