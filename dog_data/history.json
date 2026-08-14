@@ -4415,6 +4415,22 @@
         "special": "godlike"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-08-14T02:29:30.591020",
+      "dna_hash": "37e34e687f2029d3",
+      "generation": 2,
+      "mutation_count": 107,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "excited",
+        "accessory": "monocle",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: face_expression: wise \u2192 excited, special: godlike \u2192 transcendent"
     }
   ]
 }
