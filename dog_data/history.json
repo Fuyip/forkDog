@@ -4431,6 +4431,22 @@
         "special": "transcendent"
       },
       "story": "Your dog evolved! Changes: face_expression: wise \u2192 excited, special: godlike \u2192 transcendent"
+    },
+    {
+      "timestamp": "2026-08-15T01:39:49.877799",
+      "dna_hash": "b5dbacd5325c0219",
+      "generation": 2,
+      "mutation_count": 108,
+      "rarity_score": 48.333333333333336,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "excited",
+        "accessory": "horns",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: accessory: monocle \u2192 horns"
     }
   ]
 }
