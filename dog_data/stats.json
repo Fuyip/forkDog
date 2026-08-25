@@ -1,13 +1,13 @@
 {
-  "dna_hash": "c478759e132050aa",
+  "dna_hash": "ea18cd360827ca37",
   "generation": 2,
   "age_days": 0,
-  "mutation_count": 116,
+  "mutation_count": 117,
   "rarity_score": 43.333333333333336,
   "parent_id": "387085621eef98ac",
   "traits": {
     "body_color": {
-      "value": "crystal",
+      "value": "holographic",
       "rarity": "legendary"
     },
     "face_expression": {
@@ -31,5 +31,5 @@
       "rarity": "legendary"
     }
   },
-  "last_updated": "2026-08-24T01:46:24.983371"
+  "last_updated": "2026-08-25T01:40:54.168843"
 }

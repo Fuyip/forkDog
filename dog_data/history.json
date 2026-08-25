@@ -4591,6 +4591,22 @@
         "special": "mythical"
       },
       "story": "Your dog evolved! Changes: body_color: rainbow \u2192 crystal, background: green_grass \u2192 sunset"
+    },
+    {
+      "timestamp": "2026-08-25T01:40:54.169971",
+      "dna_hash": "ea18cd360827ca37",
+      "generation": 2,
+      "mutation_count": 117,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "excited",
+        "accessory": "monocle",
+        "pattern": "gradient",
+        "background": "sunset",
+        "special": "mythical"
+      },
+      "story": "Your dog evolved! Changes: body_color: crystal \u2192 holographic"
     }
   ]
 }
