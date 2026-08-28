@@ -1,14 +1,14 @@
 {
   "generation": 2,
   "parent_id": "387085621eef98ac",
-  "dna_hash": "ea18cd360827ca37",
-  "mutation_count": 117,
+  "dna_hash": "674847452d42d1e6",
+  "mutation_count": 119,
   "birth_timestamp": 581583,
   "traits": {
     "body_color": {
-      "value": "holographic",
+      "value": "galaxy",
       "rarity": "legendary",
-      "gene_sequence": "56baee19"
+      "gene_sequence": "164c6b39"
     },
     "face_expression": {
       "value": "excited",
