@@ -4719,6 +4719,22 @@
         "special": "transcendent"
       },
       "story": "Your dog evolved! Changes: special: mythical \u2192 transcendent"
+    },
+    {
+      "timestamp": "2026-09-02T04:06:34.199301",
+      "dna_hash": "62c772b1e1a9cfba",
+      "generation": 2,
+      "mutation_count": 121,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "excited",
+        "accessory": "monocle",
+        "pattern": "gradient",
+        "background": "sunset",
+        "special": "transcendent"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
