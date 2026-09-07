@@ -4799,6 +4799,22 @@
         "special": "transcendent"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-09-07T04:11:46.868586",
+      "dna_hash": "34a843f49c040017",
+      "generation": 2,
+      "mutation_count": 124,
+      "rarity_score": 56.666666666666664,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "wise",
+        "accessory": "diamond_chain",
+        "pattern": "gradient",
+        "background": "sunset",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: face_expression: excited \u2192 wise, accessory: wizard_hat \u2192 diamond_chain"
     }
   ]
 }
