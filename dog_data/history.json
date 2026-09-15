@@ -4911,6 +4911,22 @@
         "special": "transcendent"
       },
       "story": "Your dog evolved! Changes: body_color: galaxy \u2192 rainbow"
+    },
+    {
+      "timestamp": "2026-09-15T04:33:52.102503",
+      "dna_hash": "d8de6731a3b9f6ed",
+      "generation": 2,
+      "mutation_count": 131,
+      "rarity_score": 55.00000000000001,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "sleepy",
+        "accessory": "wings",
+        "pattern": "spots",
+        "background": "sunset",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: body_color: rainbow \u2192 crystal"
     }
   ]
 }
