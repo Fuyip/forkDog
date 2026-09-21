@@ -5007,6 +5007,22 @@
         "special": "mythical"
       },
       "story": "Your dog evolved! Changes: body_color: crystal \u2192 holographic"
+    },
+    {
+      "timestamp": "2026-09-21T04:34:22.068843",
+      "dna_hash": "d1f05ea72f1ec888",
+      "generation": 2,
+      "mutation_count": 134,
+      "rarity_score": 55.00000000000001,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "sleepy",
+        "accessory": "wings",
+        "pattern": "spots",
+        "background": "sunset",
+        "special": "mythical"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
