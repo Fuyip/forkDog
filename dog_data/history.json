@@ -5743,6 +5743,22 @@
         "special": "mythical"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-11-06T06:09:20.398404",
+      "dna_hash": "5f8bcfaf7c7aba87",
+      "generation": 2,
+      "mutation_count": 154,
+      "rarity_score": 56.666666666666664,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "sleepy",
+        "accessory": "wings",
+        "pattern": "diamonds",
+        "background": "green_grass",
+        "special": "mythical"
+      },
+      "story": "Your dog evolved! Changes: face_expression: curious \u2192 sleepy"
     }
   ]
 }
