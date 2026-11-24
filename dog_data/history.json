@@ -6031,6 +6031,22 @@
         "special": "transcendent"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-11-24T09:32:38.453581",
+      "dna_hash": "898c739df04cf8b8",
+      "generation": 2,
+      "mutation_count": 165,
+      "rarity_score": 63.33333333333333,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "mischievous",
+        "accessory": "diamond_chain",
+        "pattern": "nebula",
+        "background": "white",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: face_expression: cool \u2192 mischievous"
     }
   ]
 }
