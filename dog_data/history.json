@@ -6047,6 +6047,22 @@
         "special": "transcendent"
       },
       "story": "Your dog evolved! Changes: face_expression: cool \u2192 mischievous"
+    },
+    {
+      "timestamp": "2026-11-25T08:03:36.190663",
+      "dna_hash": "bd76f4b3f9bd19a4",
+      "generation": 2,
+      "mutation_count": 166,
+      "rarity_score": 63.33333333333333,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "mischievous",
+        "accessory": "diamond_chain",
+        "pattern": "nebula",
+        "background": "white",
+        "special": "transcendent"
+      },
+      "story": "Your dog evolved! Changes: body_color: rainbow \u2192 galaxy"
     }
   ]
 }
